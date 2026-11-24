@@ -1,0 +1,403 @@
+[
+  {
+    "id": "scuba_diving_tarkarli",
+    "name": "Scuba Diving",
+    "location": ["Tarkarli", "Malvan", "Devbag"],
+    "category": "water_sport",
+    "description": "An underwater activity that allows visitors to explore marine life and underwater environments around the Malvan coast.",
+    "suitable_for": [
+      "adventure_seekers",
+      "couples",
+      "young_travelers",
+      "groups"
+    ],
+    "interests": [
+      "adventure",
+      "marine_life",
+      "water_sports",
+      "nature"
+    ],
+    "difficulty": "moderate",
+    "walking_required": "low",
+    "duration_minutes": 60,
+    "estimated_cost_inr": {
+      "min": 800,
+      "max": 2500
+    },
+    "best_season": "October to May",
+    "weather_dependent": true,
+    "monsoon_available": false,
+    "age_requirement": "Depends on operator and safety rules",
+    "swimming_requirement": "Depends on activity/operator",
+    "safety_level": "requires_trained_operator",
+    "booking_required": true,
+    "tags": [
+      "scuba",
+      "diving",
+      "marine",
+      "underwater",
+      "tarkarli",
+      "malvan"
+    ]
+  },
+
+  {
+    "id": "snorkeling_malvan",
+    "name": "Snorkeling",
+    "location": ["Malvan", "Tarkarli", "Devbag"],
+    "category": "water_sport",
+    "description": "A surface-water activity using a mask and snorkel to observe marine life and underwater surroundings.",
+    "suitable_for": [
+      "families",
+      "couples",
+      "beginners",
+      "nature_lovers"
+    ],
+    "interests": [
+      "marine_life",
+      "nature",
+      "water_sports",
+      "adventure"
+    ],
+    "difficulty": "easy",
+    "walking_required": "low",
+    "duration_minutes": 45,
+    "estimated_cost_inr": {
+      "min": 400,
+      "max": 1500
+    },
+    "best_season": "October to May",
+    "weather_dependent": true,
+    "monsoon_available": false,
+    "age_requirement": "Depends on operator and safety rules",
+    "swimming_requirement": "Depends on operator",
+    "safety_level": "requires_supervision",
+    "booking_required": true,
+    "tags": [
+      "snorkeling",
+      "marine",
+      "coral",
+      "malvan",
+      "tarkarli"
+    ]
+  },
+
+  {
+    "id": "boat_ride_malvan",
+    "name": "Boat Ride",
+    "location": ["Malvan", "Devbag", "Tarkarli"],
+    "category": "boating",
+    "description": "A recreational boat experience along the Malvan coast and nearby coastal areas.",
+    "suitable_for": [
+      "families",
+      "couples",
+      "elderly_travelers",
+      "groups"
+    ],
+    "interests": [
+      "nature",
+      "sea",
+      "photography",
+      "relaxation"
+    ],
+    "difficulty": "easy",
+    "walking_required": "low",
+    "duration_minutes": 60,
+    "estimated_cost_inr": {
+      "min": 300,
+      "max": 1500
+    },
+    "best_season": "October to May",
+    "weather_dependent": true,
+    "monsoon_available": false,
+    "age_requirement": "No fixed requirement; operator rules apply",
+    "swimming_requirement": "not_required",
+    "safety_level": "requires_operator",
+    "booking_required": true,
+    "tags": [
+      "boat",
+      "boating",
+      "sea",
+      "malvan",
+      "devbag"
+    ]
+  },
+
+  {
+    "id": "dolphin_boat_trip",
+    "name": "Dolphin Watching Boat Trip",
+    "location": ["Malvan", "Devbag", "Bhogave"],
+    "category": "wildlife",
+    "description": "A boat-based experience intended for observing dolphins in their natural marine environment when sightings and conditions permit.",
+    "suitable_for": [
+      "families",
+      "couples",
+      "nature_lovers",
+      "children"
+    ],
+    "interests": [
+      "wildlife",
+      "marine_life",
+      "nature",
+      "photography"
+    ],
+    "difficulty": "easy",
+    "walking_required": "low",
+    "duration_minutes": 90,
+    "estimated_cost_inr": {
+      "min": 300,
+      "max": 1200
+    },
+    "best_season": "October to May",
+    "weather_dependent": true,
+    "monsoon_available": false,
+    "age_requirement": "Operator dependent",
+    "swimming_requirement": "not_required",
+    "safety_level": "requires_operator",
+    "booking_required": true,
+    "tags": [
+      "dolphin",
+      "wildlife",
+      "boat",
+      "marine",
+      "devbag"
+    ]
+  },
+
+  {
+    "id": "kayaking_tarkarli",
+    "name": "Kayaking",
+    "location": ["Tarkarli", "Devbag"],
+    "category": "water_sport",
+    "description": "A recreational paddling activity suitable for exploring calm coastal or riverine waters under appropriate conditions.",
+    "suitable_for": [
+      "adventure_seekers",
+      "couples",
+      "young_travelers",
+      "groups"
+    ],
+    "interests": [
+      "adventure",
+      "water_sports",
+      "nature",
+      "fitness"
+    ],
+    "difficulty": "moderate",
+    "walking_required": "low",
+    "duration_minutes": 45,
+    "estimated_cost_inr": {
+      "min": 300,
+      "max": 1000
+    },
+    "best_season": "October to May",
+    "weather_dependent": true,
+    "monsoon_available": false,
+    "age_requirement": "Operator dependent",
+    "swimming_requirement": "Operator dependent",
+    "safety_level": "requires_supervision",
+    "booking_required": true,
+    "tags": [
+      "kayaking",
+      "water",
+      "adventure",
+      "tarkarli",
+      "devbag"
+    ]
+  },
+
+  {
+    "id": "paddleboarding_tarkarli",
+    "name": "Paddleboarding",
+    "location": ["Tarkarli", "Devbag"],
+    "category": "water_sport",
+    "description": "A recreational water activity involving standing or kneeling on a paddleboard and moving across suitable calm waters.",
+    "suitable_for": [
+      "young_travelers",
+      "couples",
+      "adventure_seekers"
+    ],
+    "interests": [
+      "adventure",
+      "water_sports",
+      "fitness",
+      "nature"
+    ],
+    "difficulty": "moderate",
+    "walking_required": "low",
+    "duration_minutes": 30,
+    "estimated_cost_inr": {
+      "min": 300,
+      "max": 1000
+    },
+    "best_season": "October to May",
+    "weather_dependent": true,
+    "monsoon_available": false,
+    "age_requirement": "Operator dependent",
+    "swimming_requirement": "Operator dependent",
+    "safety_level": "requires_supervision",
+    "booking_required": true,
+    "tags": [
+      "paddleboard",
+      "water",
+      "adventure",
+      "tarkarli"
+    ]
+  },
+
+  {
+    "id": "jet_ski_tarkarli",
+    "name": "Jet Skiing",
+    "location": ["Tarkarli", "Devbag"],
+    "category": "water_sport",
+    "description": "A motorized water activity offering a short high-speed ride over suitable coastal waters.",
+    "suitable_for": [
+      "adventure_seekers",
+      "young_travelers",
+      "couples",
+      "groups"
+    ],
+    "interests": [
+      "adventure",
+      "water_sports",
+      "thrill"
+    ],
+    "difficulty": "moderate",
+    "walking_required": "low",
+    "duration_minutes": 10,
+    "estimated_cost_inr": {
+      "min": 400,
+      "max": 1200
+    },
+    "best_season": "October to May",
+    "weather_dependent": true,
+    "monsoon_available": false,
+    "age_requirement": "Operator dependent",
+    "swimming_requirement": "Not normally required for passenger; operator rules apply",
+    "safety_level": "requires_operator",
+    "booking_required": true,
+    "tags": [
+      "jet_ski",
+      "water_sports",
+      "thrill",
+      "tarkarli"
+    ]
+  },
+
+  {
+    "id": "banana_boat_tarkarli",
+    "name": "Banana Boat Ride",
+    "location": ["Tarkarli", "Devbag"],
+    "category": "water_sport",
+    "description": "A group water activity where participants ride an inflatable banana-shaped boat pulled by a motorboat.",
+    "suitable_for": [
+      "groups",
+      "young_travelers",
+      "families"
+    ],
+    "interests": [
+      "adventure",
+      "water_sports",
+      "fun",
+      "group_activity"
+    ],
+    "difficulty": "moderate",
+    "walking_required": "low",
+    "duration_minutes": 15,
+    "estimated_cost_inr": {
+      "min": 300,
+      "max": 1000
+    },
+    "best_season": "October to May",
+    "weather_dependent": true,
+    "monsoon_available": false,
+    "age_requirement": "Operator dependent",
+    "swimming_requirement": "Operator dependent",
+    "safety_level": "requires_operator",
+    "booking_required": true,
+    "tags": [
+      "banana_boat",
+      "water_sports",
+      "group",
+      "tarkarli"
+    ]
+  },
+
+  {
+    "id": "parasailing_tarkarli",
+    "name": "Parasailing",
+    "location": ["Tarkarli"],
+    "category": "aerial_water_sport",
+    "description": "A recreational activity where a participant is lifted above the water while attached to a parasail pulled by a boat.",
+    "suitable_for": [
+      "adventure_seekers",
+      "young_travelers",
+      "couples"
+    ],
+    "interests": [
+      "adventure",
+      "thrill",
+      "water_sports",
+      "photography"
+    ],
+    "difficulty": "moderate",
+    "walking_required": "low",
+    "duration_minutes": 10,
+    "estimated_cost_inr": {
+      "min": 800,
+      "max": 2000
+    },
+    "best_season": "October to May",
+    "weather_dependent": true,
+    "monsoon_available": false,
+    "age_requirement": "Operator dependent",
+    "swimming_requirement": "Operator dependent",
+    "safety_level": "requires_trained_operator",
+    "booking_required": true,
+    "tags": [
+      "parasailing",
+      "adventure",
+      "thrill",
+      "tarkarli"
+    ]
+  },
+
+  {
+    "id": "coastal_kayak_devbag",
+    "name": "Devbag Coastal Kayaking",
+    "location": ["Devbag"],
+    "category": "water_sport",
+    "description": "A kayaking experience around suitable coastal or backwater sections near Devbag, depending on local operating conditions.",
+    "suitable_for": [
+      "adventure_seekers",
+      "nature_lovers",
+      "couples",
+      "young_travelers"
+    ],
+    "interests": [
+      "kayaking",
+      "nature",
+      "water_sports",
+      "adventure"
+    ],
+    "difficulty": "moderate",
+    "walking_required": "low",
+    "duration_minutes": 45,
+    "estimated_cost_inr": {
+      "min": 300,
+      "max": 1000
+    },
+    "best_season": "October to May",
+    "weather_dependent": true,
+    "monsoon_available": false,
+    "age_requirement": "Operator dependent",
+    "swimming_requirement": "Operator dependent",
+    "safety_level": "requires_supervision",
+    "booking_required": true,
+    "tags": [
+      "kayaking",
+      "devbag",
+      "coastal",
+      "water"
+    ]
+  }
+]

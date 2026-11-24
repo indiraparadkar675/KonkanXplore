@@ -1,0 +1,372 @@
+[
+  {
+    "id": "malvani_cooking_experience",
+    "name": "Malvani Cooking Experience",
+    "location": "Malvan",
+    "category": "food_and_culture",
+    "description": "A local cooking experience focused on traditional Malvani ingredients, cooking methods and regional dishes.",
+    "suitable_for": [
+      "food_tourists",
+      "families",
+      "couples",
+      "culture_seekers"
+    ],
+    "interests": [
+      "food",
+      "culture",
+      "local_experience",
+      "cooking"
+    ],
+    "activity_level": "low",
+    "walking_level": "low",
+    "duration_hours": 2,
+    "estimated_cost_inr": {
+      "min": 300,
+      "max": 1200
+    },
+    "best_season": "Year-round, subject to host availability",
+    "weather_dependent": false,
+    "booking_required": true,
+    "authenticity_level": "high",
+    "tags": [
+      "malvani_food",
+      "cooking",
+      "culture",
+      "local"
+    ]
+  },
+  {
+    "id": "konkan_homestay_experience",
+    "name": "Traditional Konkan Homestay Experience",
+    "location": "Malvan Region",
+    "category": "local_living",
+    "description": "Stay with a local host and experience traditional Konkan hospitality, food and everyday coastal life.",
+    "suitable_for": [
+      "families",
+      "couples",
+      "culture_seekers",
+      "food_tourists"
+    ],
+    "interests": [
+      "culture",
+      "food",
+      "local_life",
+      "nature"
+    ],
+    "activity_level": "low",
+    "walking_level": "low",
+    "duration_hours": 24,
+    "estimated_cost_inr": {
+      "min": 1200,
+      "max": 3500
+    },
+    "best_season": "October to May",
+    "weather_dependent": false,
+    "booking_required": true,
+    "authenticity_level": "high",
+    "tags": [
+      "homestay",
+      "konkan",
+      "local",
+      "culture",
+      "hospitality"
+    ]
+  },
+  {
+    "id": "local_fishing_experience",
+    "name": "Traditional Fishing Experience",
+    "location": "Malvan Coastal Region",
+    "category": "livelihood_and_culture",
+    "description": "A locally guided experience introducing visitors to traditional coastal fishing practices and the livelihood of fishing communities.",
+    "suitable_for": [
+      "culture_seekers",
+      "families",
+      "photographers",
+      "nature_lovers"
+    ],
+    "interests": [
+      "fishing",
+      "culture",
+      "local_life",
+      "marine_life"
+    ],
+    "activity_level": "moderate",
+    "walking_level": "low",
+    "duration_hours": 2,
+    "estimated_cost_inr": {
+      "min": 300,
+      "max": 1500
+    },
+    "best_season": "October to May",
+    "weather_dependent": true,
+    "booking_required": true,
+    "authenticity_level": "high",
+    "tags": [
+      "fishing",
+      "local",
+      "coastal",
+      "culture",
+      "community"
+    ]
+  },
+  {
+    "id": "malvani_food_walk",
+    "name": "Malvani Food Walk",
+    "location": "Malvan",
+    "category": "food_tour",
+    "description": "A guided exploration of local food and traditional Malvani flavours through selected food stops.",
+    "suitable_for": [
+      "food_tourists",
+      "couples",
+      "solo_travelers",
+      "culture_seekers"
+    ],
+    "interests": [
+      "food",
+      "malvani_cuisine",
+      "culture",
+      "local_experience"
+    ],
+    "activity_level": "low",
+    "walking_level": "moderate",
+    "duration_hours": 2,
+    "estimated_cost_inr": {
+      "min": 300,
+      "max": 1200
+    },
+    "best_season": "October to May",
+    "weather_dependent": true,
+    "booking_required": true,
+    "authenticity_level": "high",
+    "tags": [
+      "food_walk",
+      "malvani",
+      "seafood",
+      "local_food",
+      "culture"
+    ]
+  },
+  {
+    "id": "konkan_village_walk",
+    "name": "Konkan Village Walk",
+    "location": "Malvan Region",
+    "category": "rural_tourism",
+    "description": "A guided walk through a Konkan village to observe traditional homes, local surroundings, agriculture and everyday rural life.",
+    "suitable_for": [
+      "culture_seekers",
+      "photographers",
+      "nature_lovers",
+      "families"
+    ],
+    "interests": [
+      "village",
+      "culture",
+      "nature",
+      "photography",
+      "local_life"
+    ],
+    "activity_level": "moderate",
+    "walking_level": "moderate",
+    "duration_hours": 2,
+    "estimated_cost_inr": {
+      "min": 200,
+      "max": 800
+    },
+    "best_season": "October to May",
+    "weather_dependent": true,
+    "booking_required": true,
+    "authenticity_level": "high",
+    "tags": [
+      "village",
+      "rural",
+      "konkan",
+      "culture",
+      "walking"
+    ]
+  },
+  {
+    "id": "coconut_farm_experience",
+    "name": "Coconut and Coastal Farm Experience",
+    "location": "Malvan Region",
+    "category": "agriculture",
+    "description": "A local farm experience introducing visitors to coconut-growing environments and traditional coastal agricultural practices.",
+    "suitable_for": [
+      "families",
+      "nature_lovers",
+      "children",
+      "culture_seekers"
+    ],
+    "interests": [
+      "nature",
+      "agriculture",
+      "local_life",
+      "culture"
+    ],
+    "activity_level": "low",
+    "walking_level": "moderate",
+    "duration_hours": 1.5,
+    "estimated_cost_inr": {
+      "min": 100,
+      "max": 600
+    },
+    "best_season": "October to May",
+    "weather_dependent": true,
+    "booking_required": true,
+    "authenticity_level": "high",
+    "tags": [
+      "coconut",
+      "farm",
+      "agriculture",
+      "konkan",
+      "nature"
+    ]
+  },
+  {
+    "id": "kokum_processing_experience",
+    "name": "Kokum Product Experience",
+    "location": "Malvan Region",
+    "category": "local_food_and_agriculture",
+    "description": "An educational local experience introducing visitors to kokum, a widely used Konkan ingredient, and traditional products made from it.",
+    "suitable_for": [
+      "food_tourists",
+      "families",
+      "culture_seekers",
+      "children"
+    ],
+    "interests": [
+      "food",
+      "kokum",
+      "agriculture",
+      "culture"
+    ],
+    "activity_level": "low",
+    "walking_level": "low",
+    "duration_hours": 1,
+    "estimated_cost_inr": {
+      "min": 100,
+      "max": 500
+    },
+    "best_season": "Year-round, subject to host availability",
+    "weather_dependent": false,
+    "booking_required": true,
+    "authenticity_level": "high",
+    "tags": [
+      "kokum",
+      "food",
+      "local",
+      "agriculture",
+      "konkan"
+    ]
+  },
+  {
+    "id": "konkan_handicraft_experience",
+    "name": "Konkan Handicraft Experience",
+    "location": "Malvan Region",
+    "category": "arts_and_crafts",
+    "description": "An opportunity to discover locally produced handicrafts and learn about traditional craft practices.",
+    "suitable_for": [
+      "culture_seekers",
+      "families",
+      "photographers",
+      "shopping_lovers"
+    ],
+    "interests": [
+      "crafts",
+      "culture",
+      "shopping",
+      "local_products"
+    ],
+    "activity_level": "low",
+    "walking_level": "low",
+    "duration_hours": 1,
+    "estimated_cost_inr": {
+      "min": 0,
+      "max": 800
+    },
+    "best_season": "Year-round",
+    "weather_dependent": false,
+    "booking_required": false,
+    "authenticity_level": "high",
+    "tags": [
+      "handicraft",
+      "craft",
+      "local_products",
+      "culture",
+      "shopping"
+    ]
+  },
+  {
+    "id": "sunset_coastal_photography",
+    "name": "Konkan Sunset Photography Experience",
+    "location": "Malvan Coastal Region",
+    "category": "photography",
+    "description": "A relaxed coastal photography experience focused on sunsets, beaches, fishing boats and Konkan landscapes.",
+    "suitable_for": [
+      "photographers",
+      "couples",
+      "solo_travelers",
+      "nature_lovers"
+    ],
+    "interests": [
+      "photography",
+      "sunset",
+      "beach",
+      "nature"
+    ],
+    "activity_level": "low",
+    "walking_level": "low",
+    "duration_hours": 1.5,
+    "estimated_cost_inr": {
+      "min": 0,
+      "max": 1000
+    },
+    "best_season": "October to May",
+    "weather_dependent": true,
+    "booking_required": false,
+    "authenticity_level": "medium",
+    "tags": [
+      "photography",
+      "sunset",
+      "beach",
+      "konkan",
+      "nature"
+    ]
+  },
+  {
+    "id": "local_market_exploration",
+    "name": "Malvan Local Market Exploration",
+    "location": "Malvan",
+    "category": "shopping_and_culture",
+    "description": "Explore local markets to discover regional food products, seafood, spices, kokum products and other local goods.",
+    "suitable_for": [
+      "food_tourists",
+      "families",
+      "culture_seekers",
+      "shopping_lovers"
+    ],
+    "interests": [
+      "shopping",
+      "food",
+      "culture",
+      "local_products"
+    ],
+    "activity_level": "low",
+    "walking_level": "moderate",
+    "duration_hours": 1.5,
+    "estimated_cost_inr": {
+      "min": 0,
+      "max": 1500
+    },
+    "best_season": "Year-round",
+    "weather_dependent": false,
+    "booking_required": false,
+    "authenticity_level": "high",
+    "tags": [
+      "market",
+      "shopping",
+      "food",
+      "local",
+      "malvan"
+    ]
+  }
+]

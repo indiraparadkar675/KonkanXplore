@@ -1,0 +1,226 @@
+[
+  {
+    "id": "malvan_beach",
+    "name": "Malvan Beach",
+    "location": "Malvan, Sindhudurg, Maharashtra",
+    "category": ["beach", "nature", "relaxation"],
+    "description": "A coastal beach in Malvan suitable for relaxation, photography, sunset viewing and experiencing the Konkan coastline.",
+    "best_for": ["families", "couples", "solo", "photography"],
+    "interests": ["beach", "nature", "photography", "relaxation"],
+    "activity_level": "low",
+    "walking_level": "low",
+    "recommended_duration_hours": 2,
+    "ideal_visit_time": ["morning", "evening"],
+    "best_season": "October to May",
+    "monsoon_note": "Sea conditions can become rough during the monsoon; check local conditions before coastal activities.",
+    "estimated_entry_cost_inr": 0,
+    "coordinates": {
+      "latitude": 16.059,
+      "longitude": 73.462
+    },
+    "nearby_places": ["sindhudurg_fort", "rock_garden", "tarkarli_beach"],
+    "tags": ["malvan", "beach", "sunset", "sea", "relaxation"]
+  },
+
+  {
+    "id": "tarkarli_beach",
+    "name": "Tarkarli Beach",
+    "location": "Tarkarli, Malvan, Sindhudurg, Maharashtra",
+    "category": ["beach", "adventure", "nature"],
+    "description": "A popular Konkan beach known for its scenic coastline, clear waters and access to marine and water-based activities.",
+    "best_for": ["couples", "families", "adventure_seekers", "nature_lovers"],
+    "interests": ["beach", "water_sports", "nature", "photography", "adventure"],
+    "activity_level": "moderate",
+    "walking_level": "low",
+    "recommended_duration_hours": 3,
+    "ideal_visit_time": ["morning", "evening"],
+    "best_season": "October to May",
+    "monsoon_note": "Water sports may be restricted or unsuitable during rough monsoon conditions.",
+    "estimated_entry_cost_inr": 0,
+    "coordinates": {
+      "latitude": 16.028,
+      "longitude": 73.512
+    },
+    "nearby_places": ["devbag_beach", "sindhudurg_fort", "malvan_beach"],
+    "tags": ["tarkarli", "beach", "scuba", "snorkeling", "water_sports", "konkan"]
+  },
+
+  {
+    "id": "sindhudurg_fort",
+    "name": "Sindhudurg Fort",
+    "location": "Malvan, Sindhudurg, Maharashtra",
+    "category": ["heritage", "fort", "history"],
+    "description": "A historic sea fort located on an island in the Arabian Sea near Malvan. It is an important example of Maratha maritime heritage.",
+    "best_for": ["history_lovers", "families", "photography", "culture_seekers"],
+    "interests": ["history", "heritage", "architecture", "photography", "sea"],
+    "activity_level": "moderate",
+    "walking_level": "moderate",
+    "recommended_duration_hours": 2.5,
+    "ideal_visit_time": ["morning", "afternoon"],
+    "best_season": "October to May",
+    "monsoon_note": "Boat access can be affected by rough sea conditions during monsoon.",
+    "estimated_entry_cost_inr": 0,
+    "boat_required": true,
+    "coordinates": {
+      "latitude": 16.057,
+      "longitude": 73.461
+    },
+    "nearby_places": ["malvan_beach", "rock_garden", "tarkarli_beach"],
+    "tags": ["fort", "shivaji", "history", "maratha", "heritage", "malvan"]
+  },
+
+  {
+    "id": "devbag_beach",
+    "name": "Devbag Beach",
+    "location": "Devbag, Malvan, Sindhudurg, Maharashtra",
+    "category": ["beach", "nature", "relaxation"],
+    "description": "A scenic coastal destination near Malvan known for its beach environment, coastal scenery and proximity to the Karli River and Arabian Sea.",
+    "best_for": ["families", "couples", "nature_lovers", "photography"],
+    "interests": ["beach", "nature", "photography", "relaxation", "boat_ride"],
+    "activity_level": "low",
+    "walking_level": "low",
+    "recommended_duration_hours": 2.5,
+    "ideal_visit_time": ["morning", "evening"],
+    "best_season": "October to May",
+    "monsoon_note": "Coastal and boat activities depend on weather and sea conditions.",
+    "estimated_entry_cost_inr": 0,
+    "coordinates": {
+      "latitude": 15.987,
+      "longitude": 73.479
+    },
+    "nearby_places": ["tarkarli_beach", "tsunami_island"],
+    "tags": ["devbag", "beach", "nature", "river", "sea"]
+  },
+
+  {
+    "id": "devbag_sangam",
+    "name": "Devbag Sangam",
+    "location": "Devbag, Malvan, Sindhudurg, Maharashtra",
+    "category": ["nature", "scenic", "river"],
+    "description": "A scenic area around the meeting point of the Karli River and Arabian Sea, offering coastal and riverine views.",
+    "best_for": ["nature_lovers", "photography", "couples", "families"],
+    "interests": ["nature", "photography", "river", "sea", "boat_ride"],
+    "activity_level": "low",
+    "walking_level": "low",
+    "recommended_duration_hours": 1.5,
+    "ideal_visit_time": ["morning", "evening"],
+    "best_season": "October to May",
+    "monsoon_note": "Boat and coastal access should be checked according to weather conditions.",
+    "estimated_entry_cost_inr": 0,
+    "coordinates": {
+      "latitude": 15.986,
+      "longitude": 73.482
+    },
+    "nearby_places": ["devbag_beach", "tsunami_island"],
+    "tags": ["sangam", "devbag", "karli_river", "nature", "photography"]
+  },
+
+  {
+    "id": "tsunami_island",
+    "name": "Tsunami Island",
+    "location": "Near Devbag, Malvan, Sindhudurg, Maharashtra",
+    "category": ["island", "beach", "adventure", "water_sports"],
+    "description": "A small coastal island area near Malvan known for sandy surroundings and water-based recreational activities.",
+    "best_for": ["adventure_seekers", "young_travelers", "couples", "groups"],
+    "interests": ["water_sports", "beach", "adventure", "boat_ride", "photography"],
+    "activity_level": "moderate",
+    "walking_level": "low",
+    "recommended_duration_hours": 2,
+    "ideal_visit_time": ["morning", "afternoon"],
+    "best_season": "October to May",
+    "monsoon_note": "Island access and water activities depend strongly on sea and weather conditions.",
+    "estimated_entry_cost_inr": 0,
+    "coordinates": {
+      "latitude": 15.986,
+      "longitude": 73.487
+    },
+    "nearby_places": ["devbag_beach", "devbag_sangam", "tarkarli_beach"],
+    "tags": ["tsunami_island", "island", "water_sports", "devbag", "adventure"]
+  },
+
+  {
+    "id": "rock_garden",
+    "name": "Rock Garden",
+    "location": "Malvan, Sindhudurg, Maharashtra",
+    "category": ["garden", "nature", "scenic", "photography"],
+    "description": "A coastal garden area in Malvan known for its sea-facing setting, rocky landscape and scenic views.",
+    "best_for": ["families", "couples", "photography", "elderly_travelers"],
+    "interests": ["nature", "photography", "sunset", "relaxation"],
+    "activity_level": "low",
+    "walking_level": "low",
+    "recommended_duration_hours": 1.5,
+    "ideal_visit_time": ["evening", "sunset"],
+    "best_season": "October to May",
+    "monsoon_note": "Rocky coastal areas can become slippery during rain.",
+    "estimated_entry_cost_inr": 0,
+    "coordinates": {
+      "latitude": 16.057,
+      "longitude": 73.467
+    },
+    "nearby_places": ["sindhudurg_fort", "malvan_beach"],
+    "tags": ["rock_garden", "malvan", "sunset", "photography", "garden"]
+  },
+
+  {
+    "id": "malvan_marine_sanctuary",
+    "name": "Malvan Marine Sanctuary",
+    "location": "Malvan, Sindhudurg, Maharashtra",
+    "category": ["marine", "nature", "wildlife"],
+    "description": "A protected marine area associated with the coastal and underwater biodiversity of the Malvan region.",
+    "best_for": ["nature_lovers", "marine_life_enthusiasts", "photography", "diving_enthusiasts"],
+    "interests": ["marine_life", "nature", "scuba_diving", "snorkeling", "wildlife"],
+    "activity_level": "moderate",
+    "walking_level": "low",
+    "recommended_duration_hours": 2,
+    "ideal_visit_time": ["morning"],
+    "best_season": "October to May",
+    "monsoon_note": "Marine activities depend on sea conditions and operator availability.",
+    "estimated_entry_cost_inr": 0,
+    "coordinates": {
+      "latitude": 16.02,
+      "longitude": 73.48
+    },
+    "nearby_places": ["tarkarli_beach", "devbag_beach"],
+    "tags": ["marine", "sanctuary", "coral", "malvan", "wildlife"]
+  },
+
+  {
+    "id": "sateri_devi_jal_mandir",
+    "name": "Sateri Devi Jal Mandir",
+    "location": "Sindhudurg, Maharashtra",
+    "category": ["temple", "culture", "spiritual"],
+    "description": "A temple dedicated to Goddess Sateri, associated with a peaceful water-surrounded setting.",
+    "best_for": ["families", "spiritual_travelers", "culture_seekers"],
+    "interests": ["culture", "temple", "spirituality", "nature"],
+    "activity_level": "low",
+    "walking_level": "low",
+    "recommended_duration_hours": 1,
+    "ideal_visit_time": ["morning", "evening"],
+    "best_season": "October to March",
+    "monsoon_note": "Check local road and weather conditions during heavy rain.",
+    "estimated_entry_cost_inr": 0,
+    "coordinates": null,
+    "nearby_places": [],
+    "tags": ["temple", "culture", "sateri", "spiritual"]
+  },
+
+  {
+    "id": "bhadrakali_temple_revandi",
+    "name": "Shri Bhadrakali Temple, Revandi",
+    "location": "Revandi, Sindhudurg, Maharashtra",
+    "category": ["temple", "culture", "spiritual"],
+    "description": "A historic temple dedicated to Goddess Bhadrakali, situated in a scenic coastal and green environment.",
+    "best_for": ["families", "spiritual_travelers", "culture_seekers"],
+    "interests": ["culture", "temple", "history", "spirituality"],
+    "activity_level": "low",
+    "walking_level": "low",
+    "recommended_duration_hours": 1,
+    "ideal_visit_time": ["morning", "evening"],
+    "best_season": "October to March",
+    "monsoon_note": "Check local road conditions during heavy rain.",
+    "estimated_entry_cost_inr": 0,
+    "coordinates": null,
+    "nearby_places": [],
+    "tags": ["bhadrakali", "temple", "revandi", "culture"]
+  }
+]

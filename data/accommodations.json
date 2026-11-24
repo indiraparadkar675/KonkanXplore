@@ -1,0 +1,228 @@
+[
+  {
+    "id": "budget_homestay_malvan",
+    "name": "Budget Homestay",
+    "location": "Malvan",
+    "category": "homestay",
+    "description": "A budget-friendly local homestay option suitable for travelers who want an economical stay and a more local experience.",
+    "suitable_for": ["solo", "couples", "families", "budget_travelers"],
+    "price_per_night_inr": {
+      "min": 800,
+      "max": 1800
+    },
+    "room_type": ["private_room", "family_room"],
+    "amenities": [
+      "bed",
+      "bathroom",
+      "basic_wifi",
+      "parking"
+    ],
+    "food_available": "may_be_available",
+    "local_experience": true,
+    "walking_level": "depends_on_property",
+    "booking_required": true,
+    "budget_category": "budget",
+    "tags": ["homestay", "budget", "malvan", "local"]
+  },
+  {
+    "id": "midrange_hotel_malvan",
+    "name": "Mid-Range Hotel",
+    "location": "Malvan",
+    "category": "hotel",
+    "description": "A comfortable hotel category for travelers looking for a balance between price, comfort and convenient access to Malvan attractions.",
+    "suitable_for": ["couples", "families", "solo", "groups"],
+    "price_per_night_inr": {
+      "min": 1800,
+      "max": 3500
+    },
+    "room_type": ["standard_room", "deluxe_room"],
+    "amenities": [
+      "private_bathroom",
+      "wifi",
+      "parking",
+      "room_service"
+    ],
+    "food_available": "may_be_available",
+    "local_experience": false,
+    "walking_level": "depends_on_property",
+    "booking_required": true,
+    "budget_category": "mid_range",
+    "tags": ["hotel", "mid_range", "malvan", "comfortable"]
+  },
+  {
+    "id": "premium_resort_tarkarli",
+    "name": "Premium Beach Resort",
+    "location": "Tarkarli",
+    "category": "resort",
+    "description": "A higher-comfort accommodation category near the Tarkarli coast, suitable for travelers prioritizing comfort and a beach-oriented stay.",
+    "suitable_for": ["couples", "families", "groups"],
+    "price_per_night_inr": {
+      "min": 3500,
+      "max": 8000
+    },
+    "room_type": ["deluxe_room", "cottage", "suite"],
+    "amenities": [
+      "private_bathroom",
+      "wifi",
+      "parking",
+      "restaurant",
+      "room_service"
+    ],
+    "food_available": "usually_available",
+    "local_experience": true,
+    "walking_level": "depends_on_property",
+    "booking_required": true,
+    "budget_category": "premium",
+    "tags": ["resort", "tarkarli", "beach", "premium"]
+  },
+  {
+    "id": "devbag_homestay",
+    "name": "Devbag Coastal Homestay",
+    "location": "Devbag",
+    "category": "homestay",
+    "description": "A local accommodation option in the Devbag area for travelers interested in a quieter coastal environment and local hospitality.",
+    "suitable_for": ["families", "couples", "solo", "nature_lovers"],
+    "price_per_night_inr": {
+      "min": 1000,
+      "max": 2500
+    },
+    "room_type": ["private_room", "family_room", "cottage"],
+    "amenities": [
+      "bed",
+      "private_or_shared_bathroom",
+      "parking",
+      "local_food_may_be_available"
+    ],
+    "food_available": "may_be_available",
+    "local_experience": true,
+    "walking_level": "depends_on_property",
+    "booking_required": true,
+    "budget_category": "budget_to_mid_range",
+    "tags": ["devbag", "homestay", "coastal", "local", "quiet"]
+  },
+  {
+    "id": "family_hotel_malvan",
+    "name": "Family-Friendly Hotel",
+    "location": "Malvan",
+    "category": "hotel",
+    "description": "A family-oriented accommodation category with basic comfort and convenient access to local attractions.",
+    "suitable_for": ["families", "elderly_travelers", "couples"],
+    "price_per_night_inr": {
+      "min": 1800,
+      "max": 4000
+    },
+    "room_type": ["family_room", "deluxe_room"],
+    "amenities": [
+      "private_bathroom",
+      "parking",
+      "wifi",
+      "family_rooms"
+    ],
+    "food_available": "may_be_available",
+    "local_experience": false,
+    "walking_level": "depends_on_property",
+    "booking_required": true,
+    "budget_category": "mid_range",
+    "tags": ["family", "hotel", "malvan", "elderly_friendly"]
+  },
+  {
+    "id": "budget_lodge_malvan",
+    "name": "Budget Lodge",
+    "location": "Malvan",
+    "category": "lodge",
+    "description": "A simple low-cost accommodation option intended for travelers who prioritize affordability over premium facilities.",
+    "suitable_for": ["solo", "backpackers", "budget_travelers", "groups"],
+    "price_per_night_inr": {
+      "min": 600,
+      "max": 1400
+    },
+    "room_type": ["standard_room"],
+    "amenities": [
+      "bed",
+      "basic_bathroom",
+      "parking"
+    ],
+    "food_available": "usually_not_available",
+    "local_experience": false,
+    "walking_level": "depends_on_property",
+    "booking_required": true,
+    "budget_category": "budget",
+    "tags": ["lodge", "budget", "malvan", "backpacker"]
+  },
+  {
+    "id": "couple_resort_tarkarli",
+    "name": "Couple-Friendly Coastal Resort",
+    "location": "Tarkarli",
+    "category": "resort",
+    "description": "A comfortable coastal accommodation category suitable for couples seeking a relaxed beach-oriented stay.",
+    "suitable_for": ["couples", "honeymooners"],
+    "price_per_night_inr": {
+      "min": 3000,
+      "max": 7000
+    },
+    "room_type": ["deluxe_room", "cottage", "suite"],
+    "amenities": [
+      "private_bathroom",
+      "wifi",
+      "parking",
+      "restaurant",
+      "room_service"
+    ],
+    "food_available": "usually_available",
+    "local_experience": true,
+    "walking_level": "depends_on_property",
+    "booking_required": true,
+    "budget_category": "premium",
+    "tags": ["couples", "resort", "tarkarli", "romantic", "beach"]
+  },
+  {
+    "id": "local_family_homestay",
+    "name": "Traditional Konkan Homestay",
+    "location": "Malvan Region",
+    "category": "homestay",
+    "description": "A locally oriented accommodation concept where visitors can experience Konkan hospitality, local food and a more traditional environment.",
+    "suitable_for": ["families", "couples", "culture_seekers", "food_tourists"],
+    "price_per_night_inr": {
+      "min": 1200,
+      "max": 3000
+    },
+    "room_type": ["private_room", "family_room", "traditional_room"],
+    "amenities": [
+      "bed",
+      "bathroom",
+      "parking",
+      "local_food_may_be_available"
+    ],
+    "food_available": "may_be_available",
+    "local_experience": true,
+    "walking_level": "depends_on_property",
+    "booking_required": true,
+    "budget_category": "budget_to_mid_range",
+    "tags": ["konkan", "homestay", "local", "culture", "food"]
+  },
+  {
+    "id": "group_cottage_tarkarli",
+    "name": "Group Cottage",
+    "location": "Tarkarli",
+    "category": "cottage",
+    "description": "A cottage-style accommodation option suitable for groups or families who prefer shared accommodation.",
+    "suitable_for": ["groups", "families", "friends"],
+    "price_per_night_inr": {
+      "min": 2500,
+      "max": 6000
+    },
+    "room_type": ["cottage", "family_cottage"],
+    "amenities": [
+      "private_bathroom",
+      "parking",
+      "wifi",
+      "common_area"
+    ],
+    "food_available": "may_be_available",
+    "local_experience": true,
+    "walking_level": "depends_on_property",
+    "booking_required": true,
+    "budget_category": "mid_range",
+    "tags": ["cottage", "group", "family", "tarkarli"]
+  }
+]

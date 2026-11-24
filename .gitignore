@@ -1,0 +1,26 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Local configuration and state
+.env
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# Frontend dependencies/build output
+frontend/node_modules/
+frontend/dist/
+
+# Local backups and editor/OS files
+backup-before-completion/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

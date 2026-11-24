@@ -1,0 +1,218 @@
+[
+  {
+    "id": "malvani_fish_thali",
+    "name": "Malvani Fish Thali",
+    "location": "Malvan",
+    "category": "main_meal",
+    "description": "A traditional Malvani-style meal commonly featuring rice, fish preparation, curry and local accompaniments.",
+    "cuisine": "Malvani",
+    "meal_type": ["lunch", "dinner"],
+    "diet": "non_vegetarian",
+    "popular_with": ["seafood_lovers", "foodies"],
+    "spice_level": "medium_to_high",
+    "estimated_cost_inr": {
+      "min": 250,
+      "max": 600
+    },
+    "recommended_for": ["couples", "families", "solo", "food_tourists"],
+    "tags": ["malvani", "fish", "thali", "seafood", "local_food"]
+  },
+  {
+    "id": "sol_kadhi",
+    "name": "Sol Kadhi",
+    "location": "Malvan",
+    "category": "beverage_accompaniment",
+    "description": "A traditional Konkan preparation made using kokum and coconut milk, commonly served with meals.",
+    "cuisine": "Konkan",
+    "meal_type": ["lunch", "dinner"],
+    "diet": "vegetarian",
+    "popular_with": ["foodies", "vegetarians", "local_food_explorers"],
+    "spice_level": "mild",
+    "estimated_cost_inr": {
+      "min": 40,
+      "max": 120
+    },
+    "recommended_for": ["families", "couples", "solo", "food_tourists"],
+    "tags": ["sol_kadhi", "kokum", "coconut", "konkan", "drink"]
+  },
+  {
+    "id": "bombil_fry",
+    "name": "Bombil Fry",
+    "location": "Malvan",
+    "category": "seafood",
+    "description": "A popular coastal fish preparation in which Bombay duck is typically marinated and fried.",
+    "cuisine": "Malvani",
+    "meal_type": ["lunch", "dinner"],
+    "diet": "non_vegetarian",
+    "popular_with": ["seafood_lovers", "foodies"],
+    "spice_level": "medium",
+    "estimated_cost_inr": {
+      "min": 180,
+      "max": 400
+    },
+    "recommended_for": ["couples", "families", "food_tourists"],
+    "tags": ["bombil", "fish", "fried_fish", "seafood", "malvani"]
+  },
+  {
+    "id": "surmai_fry",
+    "name": "Surmai Fry",
+    "location": "Malvan",
+    "category": "seafood",
+    "description": "A coastal fish preparation commonly made by marinating kingfish with local spices and shallow or deep frying.",
+    "cuisine": "Malvani",
+    "meal_type": ["lunch", "dinner"],
+    "diet": "non_vegetarian",
+    "popular_with": ["seafood_lovers", "foodies"],
+    "spice_level": "medium",
+    "estimated_cost_inr": {
+      "min": 250,
+      "max": 500
+    },
+    "recommended_for": ["couples", "families", "food_tourists"],
+    "tags": ["surmai", "kingfish", "fish", "seafood", "malvani"]
+  },
+  {
+    "id": "prawns_fry",
+    "name": "Malvani Prawns Fry",
+    "location": "Malvan",
+    "category": "seafood",
+    "description": "A spicy coastal-style prawns preparation commonly served as a side dish or starter.",
+    "cuisine": "Malvani",
+    "meal_type": ["lunch", "dinner"],
+    "diet": "non_vegetarian",
+    "popular_with": ["seafood_lovers", "foodies"],
+    "spice_level": "medium_to_high",
+    "estimated_cost_inr": {
+      "min": 220,
+      "max": 500
+    },
+    "recommended_for": ["couples", "families", "food_tourists"],
+    "tags": ["prawns", "seafood", "fried", "malvani"]
+  },
+  {
+    "id": "malvani_chicken",
+    "name": "Malvani Chicken",
+    "location": "Malvan",
+    "category": "main_meal",
+    "description": "A spicy chicken preparation made with a blend of regional Malvani spices and commonly served with rice or roti.",
+    "cuisine": "Malvani",
+    "meal_type": ["lunch", "dinner"],
+    "diet": "non_vegetarian",
+    "popular_with": ["non_vegetarian_foodies", "foodies"],
+    "spice_level": "high",
+    "estimated_cost_inr": {
+      "min": 220,
+      "max": 500
+    },
+    "recommended_for": ["couples", "families", "food_tourists"],
+    "tags": ["chicken", "malvani", "spicy", "local_food"]
+  },
+  {
+    "id": "kombdi_vade",
+    "name": "Kombdi Vade",
+    "location": "Malvan and Konkan",
+    "category": "traditional_meal",
+    "description": "A traditional Konkan combination of chicken curry served with vade, a local fried bread.",
+    "cuisine": "Konkan",
+    "meal_type": ["lunch", "dinner"],
+    "diet": "non_vegetarian",
+    "popular_with": ["foodies", "local_food_explorers"],
+    "spice_level": "medium_to_high",
+    "estimated_cost_inr": {
+      "min": 200,
+      "max": 450
+    },
+    "recommended_for": ["families", "couples", "food_tourists"],
+    "tags": ["kombdi_vade", "chicken", "vade", "konkan", "traditional"]
+  },
+  {
+    "id": "ghavne",
+    "name": "Ghavne",
+    "location": "Malvan and Konkan",
+    "category": "breakfast",
+    "description": "A soft rice-based traditional preparation from the Konkan region, commonly eaten as breakfast or with curry.",
+    "cuisine": "Konkan",
+    "meal_type": ["breakfast"],
+    "diet": "vegetarian",
+    "popular_with": ["foodies", "vegetarians", "local_food_explorers"],
+    "spice_level": "mild",
+    "estimated_cost_inr": {
+      "min": 50,
+      "max": 150
+    },
+    "recommended_for": ["families", "couples", "solo", "food_tourists"],
+    "tags": ["ghavne", "rice", "breakfast", "konkan"]
+  },
+  {
+    "id": "ukadiche_modak",
+    "name": "Ukadiche Modak",
+    "location": "Konkan",
+    "category": "sweet",
+    "description": "A traditional steamed rice-flour sweet filled with coconut and jaggery.",
+    "cuisine": "Maharashtrian",
+    "meal_type": ["snack", "dessert"],
+    "diet": "vegetarian",
+    "popular_with": ["families", "vegetarians", "foodies"],
+    "spice_level": "none",
+    "estimated_cost_inr": {
+      "min": 40,
+      "max": 150
+    },
+    "recommended_for": ["families", "children", "food_tourists"],
+    "tags": ["modak", "sweet", "coconut", "jaggery", "konkan"]
+  },
+  {
+    "id": "kokum_sherbet",
+    "name": "Kokum Sherbet",
+    "location": "Malvan and Konkan",
+    "category": "beverage",
+    "description": "A refreshing drink prepared from kokum, commonly enjoyed in the hot coastal climate.",
+    "cuisine": "Konkan",
+    "meal_type": ["beverage"],
+    "diet": "vegetarian",
+    "popular_with": ["families", "foodies", "vegetarians"],
+    "spice_level": "none",
+    "estimated_cost_inr": {
+      "min": 30,
+      "max": 100
+    },
+    "recommended_for": ["families", "children", "couples", "solo"],
+    "tags": ["kokum", "sherbet", "drink", "konkan", "refreshing"]
+  },
+  {
+    "id": "solkadhi_rice",
+    "name": "Rice with Sol Kadhi",
+    "location": "Malvan",
+    "category": "traditional_meal",
+    "description": "A simple coastal meal combining steamed rice with sol kadhi and suitable local accompaniments.",
+    "cuisine": "Konkan",
+    "meal_type": ["lunch", "dinner"],
+    "diet": "vegetarian",
+    "popular_with": ["vegetarians", "families", "local_food_explorers"],
+    "spice_level": "mild",
+    "estimated_cost_inr": {
+      "min": 100,
+      "max": 250
+    },
+    "recommended_for": ["families", "elderly_travelers", "vegetarians"],
+    "tags": ["rice", "sol_kadhi", "vegetarian", "konkan"]
+  },
+  {
+    "id": "malvani_crab_curry",
+    "name": "Malvani Crab Curry",
+    "location": "Malvan",
+    "category": "seafood",
+    "description": "A coastal crab curry prepared using regional spices and coconut-based ingredients.",
+    "cuisine": "Malvani",
+    "meal_type": ["lunch", "dinner"],
+    "diet": "non_vegetarian",
+    "popular_with": ["seafood_lovers", "foodies"],
+    "spice_level": "medium_to_high",
+    "estimated_cost_inr": {
+      "min": 300,
+      "max": 650
+    },
+    "recommended_for": ["couples", "food_tourists", "seafood_lovers"],
+    "tags": ["crab", "curry", "seafood", "malvani", "coconut"]
+  }
+]
